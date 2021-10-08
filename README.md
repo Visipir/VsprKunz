@@ -4,6 +4,7 @@
 - 💞️ I’m form Indonesia
 - 📫 My discord is Vspr#4806
 - 💬 My email is vsprkunz@gmail.com
+- :dollar: Miskin
 
 <!---
 VsprKunz/VsprKunz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
