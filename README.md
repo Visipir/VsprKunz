@@ -6,7 +6,7 @@
 - 💬 My email is vsprkunz@gmail.com
 - :dollar: Miskin
 
-<img align="left" alt="Vspr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vspr&theme=dark&show_icons=true" />
+<img align="left" alt="Vspr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vspr&theme=radical&show_icons=true" />
 
 <!---
 VsprKunz/VsprKunz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
